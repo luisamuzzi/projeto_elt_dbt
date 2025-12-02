@@ -1,0 +1,20 @@
+[project]
+name = "projeto-elt-dbt"
+version = "0.1.0"
+description = "ELT com Dbt-core e Snowflake"
+authors = [
+    {name = "Luisa Muzzi",email = "luisamuzzi29@gmail.com"}
+]
+readme = "README.md"
+requires-python = "3.12.5"
+dependencies = [
+    "dbt-core (>=1.10.15,<2.0.0)",
+    "dbt-snowflake (>=1.10.3,<2.0.0)",
+    "dbt-postgres (>=1.9.1,<2.0.0)",
+    "dbt-redshift (>=1.9.5,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
