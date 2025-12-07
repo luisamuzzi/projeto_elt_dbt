@@ -10,8 +10,10 @@ requires-python = "3.12.5"
 dependencies = [
     "dbt-core (>=1.10.15,<2.0.0)",
     "dbt-snowflake (>=1.10.3,<2.0.0)",
-    "dbt-postgres (>=1.9.1,<2.0.0)",
-    "dbt-redshift (>=1.9.5,<2.0.0)"
+    "pandas (>=2.3.3,<3.0.0)",
+    "sqlalchemy (>=2.0.44,<3.0.0)",
+    "snowflake-sqlalchemy (>=1.7.7,<2.0.0)",
+    "python-dotenv (>=1.2.1,<2.0.0)",
 ]
 
 
