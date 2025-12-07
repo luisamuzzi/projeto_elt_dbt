@@ -2,7 +2,9 @@
 
 ### Resumo
 
-Este projeto implementou um pipeline de ELT (Extract, Load, Transform) para coletar, armazenar e realizar transformações em dados sobre trabalho remoto em um banco de dados Snowflake. Um script Python foi usado para:
+Este projeto implementou um pipeline de ELT (Extract, Load, Transform) para coletar, armazenar e realizar transformações em dados sobre trabalho remoto em um banco de dados Snowflake. 
+
+Um script Python foi usado para:
 
 - Obter os dados por meio da API da Jobicy; e
 
