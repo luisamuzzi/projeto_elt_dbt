@@ -149,7 +149,7 @@ O tratamento de dados foi realizado com dbt, gerando uma view no banco de dados.
 
 3. Tabela com dados transformados:
 
-![tabela_dados_tratados.png](images\tabela_dados_tratados.png)
+![tabela_dados_tratados.png](images/tabela_dados_tratados.png)
 
 ### 6. Conclusão
 
