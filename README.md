@@ -23,7 +23,7 @@ O dbt-core foi usado para:
 - [4. Estratégia de solução](https://github.com/luisamuzzi/projeto_elt_dbt?tab=readme-ov-file#4-estrat%C3%A9gia-de-solu%C3%A7%C3%A3o)
 - [5. O produto final do projeto](https://github.com/luisamuzzi/projeto_elt_dbt?tab=readme-ov-file#5-o-produto-final-do-projeto)
 - [6. Conclusão](https://github.com/luisamuzzi/projeto_elt_dbt?tab=readme-ov-file#6-conclus%C3%A3o)
-- [7. Referências](https://github.com/luisamuzzi/projeto_etl_dbt?tab=readme-ov-file#7-refer%C3%AAncias)
+- [7. Referências](https://github.com/luisamuzzi/projeto_elt_dbt?tab=readme-ov-file#7-refer%C3%AAncias)
 
 ### 1. Ferramentas utilizadas
 
