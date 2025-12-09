@@ -23,6 +23,7 @@ O dbt-core foi usado para:
 - [4. Estratégia de solução](https://github.com/luisamuzzi/projeto_elt_dbt?tab=readme-ov-file#4-estrat%C3%A9gia-de-solu%C3%A7%C3%A3o)
 - [5. O produto final do projeto](https://github.com/luisamuzzi/projeto_elt_dbt?tab=readme-ov-file#5-o-produto-final-do-projeto)
 - [6. Conclusão](https://github.com/luisamuzzi/projeto_elt_dbt?tab=readme-ov-file#6-conclus%C3%A3o)
+- [7. Referências](https://github.com/luisamuzzi/projeto_etl_dbt?tab=readme-ov-file#7-refer%C3%AAncias)
 
 ### 1. Ferramentas utilizadas
 
@@ -156,3 +157,7 @@ O tratamento de dados foi realizado com dbt, gerando uma view no banco de dados.
 ### 6. Conclusão
 
 Este projeto criou um pipeline de ELT para coleta, carga e transformação de dados de trabalho remoto em um banco de dados Snowflake por meio de scripts Python e SQL. Para tanto, foram utilizadas as bibliotecas `requests`, `pandas`, `os`, `dotenv`, `sqlalchemy` e `snowflake.sqlalchemy` e o dbt. A API da Jobicy foi usada para extração dos dados e o banco de dados foi hospedado na plataforma de nuvem Snowflake.
+
+### 7. Referências
+
+Esse projeto foi desenvolvido como parte do curso EBA (https://renatabiaggi.com/eba/).
