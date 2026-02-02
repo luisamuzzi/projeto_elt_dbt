@@ -77,7 +77,7 @@ O dbt realiza o processamento dos dados armazenados no Snowflake, fazendo renome
 
 Ao ser executado, o script python coleta os dados da API, os transforma em um DataFrame e os armazena no Snowflake na tabela `remote_jobs`. Ao longo do processo o script exibe logs informando sobre o status, como mensagens de sucesso e erro.
 
-Por meio do dbt, o script SQL gera uma tabela processada com as transformações realizadas e salva no dbt como a view `trabalho_remoto`. 
+Por meio do dbt, o script SQL gera uma tabela processada com as transformações realizadas e salva no Snowflake como a view `trabalho_remoto`. 
 
 ### 3. Estrutura das tabelas
 
